@@ -1,0 +1,631 @@
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Presentation\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.exe
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.deps.json
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.json
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.runtimeconfig.dev.json
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Services.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.BL.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\bin\Debug\netcoreapp3.1\OnionWebApi.Models.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.AssemblyReference.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.AssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OnionWebApi.StaticWebAssets.xml
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnionWebApi.styles.css
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.dll
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.pdb
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\proyect\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi\obj\Debug\netcoreapp3.1\OnionWebApi.csproj.CopyComplete

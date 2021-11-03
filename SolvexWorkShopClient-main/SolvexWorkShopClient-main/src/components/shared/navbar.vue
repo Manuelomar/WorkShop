@@ -1,0 +1,30 @@
+<template>
+  <b-navbar>
+    <template #brand>
+      <b-navbar-item  @click="switchSidebarReduce">
+        <b-tooltip
+          :label="isSidebarReduced ? 'Expandir' : 'Reducir'"
+          position="is-right"
+        >
+          <b-icon
+            :icon="isSidebarReduced ? 'arrow-right' : 'arrow-left'"
+            size="is-small"
+          >
+          </b-icon>
+        </b-tooltip>
+      </b-navbar-item>
+    </template>
+
+  </b-navbar>
+</template>
+
+<script lang="ts">
+import { Component, Mixins, Prop, Vue } from "vue-property-decorator";
+import { SidebarMixin, AuthMixin } from "@/mixins";
+@Component
+export default class Navbar extends Mixins(SidebarMixin, AuthMixin) {}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped lang="scss">
+</style>

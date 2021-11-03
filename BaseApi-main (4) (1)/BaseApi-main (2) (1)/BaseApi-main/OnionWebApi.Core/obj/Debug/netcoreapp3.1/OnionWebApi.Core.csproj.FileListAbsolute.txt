@@ -1,0 +1,76 @@
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.deps.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.dev.json
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.AssemblyReference.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfo.cs
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\Huascar\source\repos\OnionWebApi\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.deps.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.dev.json
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.AssemblyReference.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\Final\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.deps.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.dev.json
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\BaseApi-main\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.genruntimeconfig.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.deps.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfo.cs
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\Omar\Desktop\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.genruntimeconfig.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfo.cs
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.deps.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.dev.json
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Desktop\New folder\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.genruntimeconfig.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.deps.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.runtimeconfig.dev.json
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\bin\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.AssemblyReference.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.AssemblyInfo.cs
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.dll
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.pdb
+C:\Users\OmarMedina\Downloads\BaseApi-main (4) (1)\BaseApi-main (2) (1)\BaseApi-main\OnionWebApi.Core\obj\Debug\netcoreapp3.1\OnionWebApi.Core.genruntimeconfig.cache
